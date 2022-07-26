@@ -1,2 +1,12 @@
-# Library-Management-System
-A Console Application having two entities books and student where record of both can be stored, updated, displayed and deleted. The record of issued and deposited books is maintained and fine is charged accordingly.
+# Library-Management-Project
+
+A console application made in C++ using Concepts of OOPS and File Handling.
+
+It maintains records of students and books where admin can :
+- Add new Records
+- Display Records
+- Modify Records
+- Delete Records
+
+The library section deals with issuing and deposotong of books and calculating fine accordingly.
+
